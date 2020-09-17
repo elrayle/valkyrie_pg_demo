@@ -5,3 +5,4 @@ This is the demo app using [Valkyrie](https://github.com/samvera/valkyrie) postg
 Reference: [Valkyrie Documentation](https://github.com/samvera/valkyrie/wiki)
 
 Tested with: [Release v2.0.0 of Valkyrie](https://github.com/samvera/valkyrie/tree/v2.0.0)
+
